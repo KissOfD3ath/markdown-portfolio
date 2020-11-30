@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## Favorite Things to do
+    * Learn new technologies
+    * Poker
+    * Take in the outdoors
